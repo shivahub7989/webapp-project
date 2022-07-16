@@ -1,5 +1,7 @@
 <html>
+Devops project
 <body>
-<h2>HI! we are creating the project for practice porpuse !</h2>
+me and vijay doing this task	
+<h2>HI! we are sucessfully created 1st trial trying for2nd !</h2>
 </body>
 </html>
